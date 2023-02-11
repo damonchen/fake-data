@@ -2,7 +2,7 @@
 
 This project generates fake data for you using AI.
 
-[![](./public/screenshot3.png)](https://fake-data-help.vercel.app/)
+[![](./public/screenshot.png)](https://fake-data-two.vercel.app/)
 
 ## Support
 
