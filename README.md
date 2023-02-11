@@ -1,17 +1,18 @@
-# [EmailHelper](https://email-helper.vercel.app/)
+# [FakeDataHelper](https://fake-data-help.vercel.app/)
 
-This project generates emails for you using AI.
+This project generates fake data for you using AI.
 
-[![](./public/screenshot3.png)](https://email-helper.vercel.app/)
+[![](./public/screenshot3.png)](https://fake-data-help.vercel.app/)
 
 ## Support
-`English`, `Simplified Chinese`, `Traditional Chinese`, `Japanese`, `Italian`, `German`, `Spanish`,`French`,`Dutch` ,`Korean`,`Khmer`, `Hindi`
+
+`JSON`
 
 PR welcome
 
 ## How it works
 
-Inspired by [TwtterBio](https://github.com/Nutlope/twitterbio) and [Danny Richman](https://twitter.com/DannyRichman/status/1598254671591723008?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1598254671591723008%7Ctwgr%5Eb7deab6eb03d86a1b9ac13f7e38cdeab57a40cbb%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Ftomwarren%2Fai-app-dyslexic-email-writer-help)
+Inspired by [EmailHelper](https://github.com/shengxinjing/email-helper) and [Reorx](https://twitter.com/novoreorx/status/1624080178539548673)
 
 Powerd by [OpenAI](https://openai.com/), [Next.js](https://nextjs.org/), [Vercel](https://vercel.com/) and [Tailwind CSS](https://tailwindcss.com/).
 
